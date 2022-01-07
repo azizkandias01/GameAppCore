@@ -2,7 +2,7 @@
 //  Presenter.swift
 //  Core
 //
-//  Created by rifat khadafy on 05/09/21.
+//  Created by aziz kandias on 05/09/21.
 //
 
 import SwiftUI

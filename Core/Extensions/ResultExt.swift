@@ -2,7 +2,7 @@
 //  ResultExt.swift
 //  Core
 //
-//  Created by rifat khadafy on 07/09/21.
+//  Created by aziz kandias on 07/09/21.
 //
 
 import RealmSwift  

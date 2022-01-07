@@ -2,7 +2,7 @@
 //  DataSource.swift
 //  Core
 //
-//  Created by rifat khadafy on 04/09/21.
+//  Created by aziz kandias on 04/09/21.
 //
 
 import Foundation

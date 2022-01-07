@@ -2,7 +2,7 @@
 //  UseCase.swift
 //  Core
 //
-//  Created by rifat khadafy on 03/09/21.
+//  Created by aziz kandias on 03/09/21.
 //
 
 import Foundation
